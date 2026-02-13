@@ -13,8 +13,8 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://mazaambi.github.io",
-  base: "/",
+  site: "https://everfacture.github.io",
+  base: "/mazaambi.github.io/",
   integrations: [
     sitemap({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
