@@ -4,6 +4,7 @@ pubDatetime: 2026-02-13T15:00:00.000Z
 modDatetime: 2026-02-13T15:00:00.000Z
 title: "Hello World: Starting the Stream"
 slug: hello-world-starting-the-stream
+description: "The first post on my new stream-of-consciousness blog. A digital garden of thoughts on language learning, UFC, Manchester United, business ideas, and life from Surabaya, Indonesia."
 featured: true
 draft: false
 tags:
