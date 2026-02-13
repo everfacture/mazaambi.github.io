@@ -1,12 +1,19 @@
 ---
-layout: ../layouts/Layout.astro
-title: "404 - Page Not Found"
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
 ---
 
-<div class="flex flex-col items-center justify-center min-h-[60vh] text-center">
-  <h1 class="text-6xl font-bold mb-4">404</h1>
-  <p class="text-xl text-muted-foreground mb-8">This page doesn't exist. Yet.</p>
-  <a href="/" class="inline-flex items-center gap-2 px-4 py-2 bg-accent text-accent-foreground rounded-md hover:opacity-90 transition-opacity">
-    Go Home
-  </a>
-</div>
+<Layout title="404 - Page Not Found">
+  <Header />
+  <main id="main-content" class="app-layout">
+    <div class="flex flex-col items-center justify-center min-h-[60vh] text-center">
+      <h1 class="text-6xl font-bold mb-4">404</h1>
+      <p class="text-xl text-muted-foreground mb-8">This page doesn't exist. Yet.</p>
+      <a href="/" class="inline-flex items-center gap-2 px-4 py-2 bg-accent text-accent-foreground rounded-md hover:opacity-90 transition-opacity">
+        Go Home
+      </a>
+    </div>
+  </main>
+  <Footer />
+</Layout>
