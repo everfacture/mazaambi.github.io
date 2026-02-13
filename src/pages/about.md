@@ -29,7 +29,11 @@ Not everything becomes a blog post. Some thoughts stay in the stream - quick not
 
 This site is built with [Astro](https://astro.build/), styled with [Tailwind CSS](https://tailwindcss.com/), and hosted on [GitHub Pages](https://pages.github.com/).
 
-Design inspired by [steipete.me](https://steipete.me) - stolen with respect and a nod to [Peter Steinberger](https://github.com/steipete/steipete.me). All words are mine.
+## Steal This
+
+Design inspired by [steipete.me](https://steipete.me) — stolen with respect from [Peter Steinberger](https://github.com/steipete/steipete.me). All words are mine.
+
+Fork the code on [GitHub](https://github.com/everfacture/everfacture.github.io).
 
 ## Colophon
 

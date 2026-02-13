@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://everfacture.github.io/mazaambi.github.io/", // GitHub Pages domain
+  website: "https://everfacture.github.io/", // GitHub Pages domain
   author: "Mazaambi",
   profile: "https://github.com/mazaambi",
   desc: "Stream of consciousness on language learning, UFC, Manchester United, business ideas, and life lessons.",
