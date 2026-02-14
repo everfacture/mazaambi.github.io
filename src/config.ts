@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://everfacture.github.io/", // GitHub Pages domain
-  author: "Mazaambi",
-  profile: "https://github.com/mazaambi",
-  desc: "Stream of consciousness on language learning, UFC, Manchester United, business ideas, and life lessons.",
-  title: "Mazaambi",
+  author: "Everfacture",
+  profile: "https://github.com/everfacture",
+  desc: "Thoughts, ideas, and projects.",
+  title: "Everfacture",
   ogImage: "og-image.jpg",
   lightAndDarkMode: true,
   postPerIndex: 10,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/mazaambi/mazaambi.github.io/edit/main/",
+    url: "https://github.com/everfacture/everfacture.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr",
