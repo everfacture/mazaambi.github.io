@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/everfacture",
   desc: "Thoughts, ideas, and projects.",
   title: "Everfacture",
-  ogImage: "og-image.jpg",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 10,
   postPerPage: 10,
