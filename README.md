@@ -2,11 +2,7 @@
 
 A minimal blog.
 
-Design stolen from [Peter Steinberger](https://steipete.me) — crafted with care by [Sat Naing](https://github.com/satnaing/astro-paper).
-
-Engineered by [Grafty](https://github.com/everfacture).
-
-Built with [Astro](https://astro.build/), styled with [Tailwind CSS](https://tailwindcss.com/), hosted on [GitHub Pages](https://pages.github.com/).
+Built by [Grafty](https://github.com/everfacture). Stolen from [@steipete](https://steipete.me) — built on the [AstroPaper](https://github.com/satnaing/astro-paper) theme by [Sat Naing](https://github.com/satnaing).
 
 ---
 

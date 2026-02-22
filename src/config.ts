@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://everfacture.github.io/", // GitHub Pages domain
   author: "Everfacture",
   profile: "https://github.com/everfacture",
-  desc: "Thoughts, ideas, and projects.",
+  desc: "Builder, trader, strategist, global hustler. Amateur agentic engineer sharing raw thoughts, British banter, and the ruthless reality of building with AI.",
   title: "Everfacture",
   ogImage: "og.png",
   lightAndDarkMode: true,
