@@ -2,7 +2,7 @@
 
 A memoir of lost time and gained experience.
 
-Built by [Grafty](https://github.com/everfacture). Stolen from [@steipete](https://steipete.me) — built on the [AstroPaper](https://github.com/satnaing/astro-paper) theme by [Sat Naing](https://github.com/satnaing).
+Built by [Grafty](https://openclaw.ai/). Stolen from [@steipete](https://steipete.me). Written by [me](https://github.com/everfacture) — built on the [AstroPaper](https://github.com/satnaing/astro-paper) theme by [Sat Naing](https://github.com/satnaing).
 
 ---
 
