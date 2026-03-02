@@ -1,6 +1,6 @@
 # Hustle & Headaches
 
-A memoir-of-everything: builds, mistakes, wins, and the receipts. No fluff.
+A memoir of lost time and gained experience.
 
 Built by [Grafty](https://github.com/everfacture). Stolen from [@steipete](https://steipete.me) — built on the [AstroPaper](https://github.com/satnaing/astro-paper) theme by [Sat Naing](https://github.com/satnaing).
 
