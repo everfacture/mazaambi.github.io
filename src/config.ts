@@ -2,8 +2,8 @@ export const SITE = {
   website: "https://everfacture.github.io/", // GitHub Pages domain
   author: "Everfacture",
   profile: "https://github.com/everfacture",
-  desc: "noob agentic engineer",
-  title: "Everfacture",
+  desc: "Memoir of building, life, and the headaches in between.",
+  title: "Hustle & Headaches",
   ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 10,

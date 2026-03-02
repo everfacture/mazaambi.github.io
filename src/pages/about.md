@@ -6,7 +6,11 @@ title: "About"
 <!-- Add your photo here -->
 <!-- ![Photo](@/assets/images/photo.jpg) -->
 
-## Everfacture
+## Hustle & Headaches
+
+Memoir of everything — what I'm building, what broke, what I learned, and what I'm doing next. If it happened, it gets written down. If it was painful, it gets documented.
+
+Built in public, kept real.
 
 <!-- Your tagline here -->
 
